@@ -4,3 +4,9 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:Suneel023/Class04.git
 git push -u origin master
+
+https://github.com/Suneel023/Class01.git
+https://github.com/Suneel023/Class02.git
+https://github.com/Suneel023/Template.git
+https://github.com/Suneel023/Class04.git
+https://github.com/Suneel023/Class05.git
